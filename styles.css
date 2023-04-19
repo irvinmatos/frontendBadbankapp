@@ -1,0 +1,22 @@
+.navbar{
+    background-color: darkslategrey;
+    
+
+}
+
+.navbar a:hover, :focus {
+    background-color: #2aa5a5;
+    
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.nav-link a:active {
+    background-color: #2aa5a5;
+    
+}
+  
